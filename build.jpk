@@ -1,0 +1,3 @@
+dependencies=test-manager;pair
+output-jar=bin/config-${branch}.jar
+maintype-test=jpkg.config.ConfigTest
